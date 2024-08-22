@@ -1,0 +1,8 @@
+remote: error: Trace: a50bf5c52604cc0c1c144872abc3ec946941220f70d0678f1d569d169c08d10a        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/FlowSorted.CordBloodNorway.450k.rda is 165.45 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File data/FlowSorted.CordBloodNorway.450k.rda is 163.50 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/FlowSorted.CordBloodNorway.450k.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/FlowSorted.CordBloodNorway.450k.git'

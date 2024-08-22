@@ -1,0 +1,8 @@
+remote: warning: File inst/files/Lib2_3.txt is 70.09 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 9d3863777f2c5c88084eba6f00b4d340b691f41644a0ca25c559d3aa4819ddac        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/files/Swath_result_ext.xlsx is 293.75 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/SwathXtend.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/SwathXtend.git'

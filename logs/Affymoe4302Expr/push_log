@@ -1,0 +1,7 @@
+remote: error: Trace: a12c2f8baeb2c415d8e3b3037759e250288a6d7163bd1781ff96a6fcb0e6260e        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/extdata/data.h5 is 420.89 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/Affymoe4302Expr.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/Affymoe4302Expr.git'

@@ -1,0 +1,10 @@
+remote: warning: File inst/celFiles/NA06985_GW6_C.CEL is 65.86 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/celFiles/NA06991_GW6_C.CEL is 65.85 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/celFiles/NA06993_GW6_C.CEL is 65.86 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: f1f88c1884551ca904e19d776b6f877b90c0b4d560fb16acae2feac838ceeab9        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/crlmmResult.rda is 183.16 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/hapmapsnp6.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/hapmapsnp6.git'

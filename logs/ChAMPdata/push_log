@@ -1,0 +1,8 @@
+remote: warning: File data/EPICSimData.rda is 97.28 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 1b150b9c0b80bac40107c834a75e07f0a6985d4eb500abcf2881b5419da2b412        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/testDataSet.rda is 253.45 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/ChAMPdata.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/ChAMPdata.git'

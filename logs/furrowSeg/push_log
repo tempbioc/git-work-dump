@@ -1,0 +1,8 @@
+remote: error: Trace: bf0ccdee8b7d930c64c17c5ef341692d2dc0bc014ab9c2fb90ec6d71df838030        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/exampleFurrowMovie.rda is 107.27 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File data/opto.rda is 241.17 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/furrowSeg.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/furrowSeg.git'

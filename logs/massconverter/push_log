@@ -1,0 +1,37 @@
+remote: error: GH013: Repository rule violations found for refs/heads/devel.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.        
+remote:      Visit the repository settings page, https://github.com/bioconductor-source/massconverter/settings/security_analysis        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: bf2c0e0bf00203465b2474c53ca815faf22d4a38        
+remote:            path: docs/articles/convert_data.html:194        
+remote:          - commit: 9e60b8c11ebfbabd1b5512d6b9119d3ff87c5a72        
+remote:            path: docs/articles/install.html:170        
+remote:          - commit: 455d2d370a40a989d46f864792058a9367107159        
+remote:            path: docs/articles/install.html:171        
+remote:          - commit: 6c4eec29c2cf0aebfa53120dac6fceb5ea102ff2        
+remote:            path: docs/articles/install.html:176        
+remote:          - commit: 9e1f5861d2740951c6103b4576a8a06404a01f07        
+remote:            path: vignettes/install.Rmd:77        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/massconverter/security/secret-scanning/unblock-secret/2kwd846C4KjvsV9mPYjJ7iFMqZU        
+remote:             
+remote: 
+remote: 
+To https://github.com/bioconductor-source/massconverter.git
+ ! [remote rejected] devel -> devel (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/bioconductor-source/massconverter.git'

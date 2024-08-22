@@ -1,0 +1,40 @@
+remote: error: GH013: Repository rule violations found for refs/heads/devel.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.        
+remote:      Visit the repository settings page, https://github.com/bioconductor-source/scMultiome/settings/security_analysis        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: 941bd35705407423fa0b7dbb18ffa6e7b791c260        
+remote:            path: .github/workflows/R-CMD-check.yaml:11        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/scMultiome/security/secret-scanning/unblock-secret/2kwjEEfIIM9lhurqHzVyuCHjx7c        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: dce06f078307bb8b1a6ae274bb11cb43f5704f17        
+remote:            path: .github/workflows/R-CMD-check.yaml:21        
+remote:          - commit: 62135814a8b6bf95cc20a961cdede49ecb9df3fa        
+remote:            path: .github/workflows/R-CMD-check.yaml:21        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/scMultiome/security/secret-scanning/unblock-secret/2kwjEFRSARxkqPeuMXX8TrFpJaK        
+remote:             
+remote: 
+remote: 
+To https://github.com/bioconductor-source/scMultiome.git
+ ! [remote rejected] devel -> devel (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/bioconductor-source/scMultiome.git'

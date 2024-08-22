@@ -1,0 +1,6 @@
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File src/stanExports_negBinomial_MPI.o is 60.79 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/ppcseq.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.

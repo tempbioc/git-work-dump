@@ -1,0 +1,8 @@
+remote: error: Trace: 8c4a40a0c3cdc898ba1d39fe201ae7794c6c60abb8125d129c9d854793b2dc8e        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/extdata/library_spectra/library_spectra.db is 478.87 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File inst/extdata/library_spectra/library_spectra.db is 466.25 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/msPurityData.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/msPurityData.git'

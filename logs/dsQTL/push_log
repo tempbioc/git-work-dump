@@ -1,0 +1,8 @@
+remote: warning: File data/DSQ_17.rda is 52.44 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 12690a30833250342aff8afb8bc96b99c314b7d6e5d7f243e7c1da35e6acba12        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/DHStop5_hg19.rda is 719.31 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/dsQTL.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/dsQTL.git'

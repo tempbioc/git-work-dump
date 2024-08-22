@@ -1,0 +1,52 @@
+remote: error: GH013: Repository rule violations found for refs/heads/devel.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.        
+remote:      Visit the repository settings page, https://github.com/bioconductor-source/CoSIA/settings/security_analysis        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - blob id: 5d12a557a5497753a60458458b140f79a9f49eb6        
+remote:          - blob id: 189f7d8848e7fdb4005e2302d203ac2577be6126        
+remote:          - blob id: 2a3c81a3ff8ddf3ee6067e5b947ad8e5ca6d2bab        
+remote:          - blob id: 3159a4684b55f29ea77e487912fc629da1fd5066        
+remote:          - blob id: 43b986ec2a4183cc365ed2f6ced9bad54ef3dab7        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/CoSIA/security/secret-scanning/unblock-secret/2kwCo80a1pQCtuY2s88HC1I6elw        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - blob id: 0fab68555ed344d93e8742057eaadb4ee400a145        
+remote:          - blob id: 27ef3ac1560b02d6d7f48953c6b90293de41cb55        
+remote:          - blob id: 29a811e9e248db9f52d3ad1326f63ca585104b40        
+remote:          - blob id: 4599e13df3ca0d2ab7b9388d9080ece8242b57f7        
+remote:          - blob id: 490597931b2a299764cdad10fb92dddad1ec17d0        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/CoSIA/security/secret-scanning/unblock-secret/2kwCo9HETfLPEY30VpomEnUeGK3        
+remote:             
+remote:             
+remote:     ——[ WARNING ]—————————————————————————————————————————        
+remote:      Scan incomplete: This push was large and we didn't finish on time.        
+remote:      It can still contain undetected secrets.        
+remote:             
+remote:      (?) Use the following command to find the path of the detected secret(s):        
+remote:          git rev-list --objects --all | grep blobid        
+remote:     ——————————————————————————————————————————————————————        
+remote: 
+remote: 
+To https://github.com/bioconductor-source/CoSIA.git
+ ! [remote rejected] devel -> devel (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/bioconductor-source/CoSIA.git'

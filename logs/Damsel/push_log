@@ -1,0 +1,37 @@
+remote: error: GH013: Repository rule violations found for refs/heads/devel.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.        
+remote:      Visit the repository settings page, https://github.com/bioconductor-source/Damsel/settings/security_analysis        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: a1d23320023db99ba0f14d0d368af716e784ade3        
+remote:            path: README.md:15        
+remote:          - commit: 0b0a828f6eb150f4b9c120dd1897993c40439343        
+remote:            path: vignettes/my-vignette.Rmd:34        
+remote:          - commit: de0276002c6540a4a7ee99272bc2f183a1d8a4e0        
+remote:            path: vignettes/my-vignette.Rmd:34        
+remote:          - commit: 07dbda5536b823abd3fbf8fe0568e24a013b1c93        
+remote:            path: vignettes/my-vignette.Rmd:34        
+remote:          - commit: 10ac2d2694f300e4edd646fa347421c8d27b3ae5        
+remote:            path: vignettes/my-vignette.Rmd:34        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/Damsel/security/secret-scanning/unblock-secret/2kwDTH2TbRufvl5jYwo288XhKMX        
+remote:             
+remote: 
+remote: 
+To https://github.com/bioconductor-source/Damsel.git
+ ! [remote rejected] devel -> devel (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/bioconductor-source/Damsel.git'

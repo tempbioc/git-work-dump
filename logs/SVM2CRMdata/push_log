@@ -1,0 +1,13 @@
+remote: warning: File inst/extdata/CD4-H2AK5ac.sort.txt.bz2 is 88.29 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/CD4-H2AK9ac.sort.txt.bz2 is 83.55 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/CD4-H3K23ac.sort.txt.bz2 is 86.32 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/CD4-H3K27ac.sort.txt.bz2 is 83.79 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/H3K4me1.sort.txt.bz2 is 97.15 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/H3K4me2.sort.txt.bz2 is 91.44 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 80bf8584b68942c35ffdbf0783bca9560540ef8c1fde455d23ddb05c30902c58        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/extdata/H3K4me3.sort.txt.bz2 is 104.38 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/SVM2CRMdata.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/SVM2CRMdata.git'

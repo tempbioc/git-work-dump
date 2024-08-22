@@ -1,0 +1,8 @@
+remote: error: Trace: 42fac3e27c5c32e5e3c55c21d11f41648b7facc93f4f8dc20a1f6c1e4ae1d659        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/extdata/ageData.RData is 107.95 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File inst/extdata/ageData.RData is 208.95 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/methylationArrayAnalysis.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/methylationArrayAnalysis.git'

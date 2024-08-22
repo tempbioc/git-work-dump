@@ -1,0 +1,7 @@
+remote: error: Trace: bb59d27ec72a35bacd0966d0987050d348493680960f6abcdc657db0f3efc1a6        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/example.tally.repack.hfs5 is 232.67 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/h5vc.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/h5vc.git'

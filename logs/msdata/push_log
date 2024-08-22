@@ -1,0 +1,8 @@
+remote: warning: File inst/TripleTOF-SWATH/PestMix1_SWATH.mzML is 68.44 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 89ff7cb4f96f8b18d91eea68f2098408a21085c7303b8b4599a5edd2141639ad        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/proteomics/TMT_Erwinia_1uLSike_Top10HCD_isol2_45stepped_60min_01-20141210.mzML.gz is 300.38 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/msdata.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/msdata.git'

@@ -1,0 +1,8 @@
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File data/methy.rda is 82.95 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/methy.RData is 82.95 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/grs.diseases.rda is 93.52 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/epimutacions.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.

@@ -1,0 +1,40 @@
+remote: error: GH013: Repository rule violations found for refs/heads/devel.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.        
+remote:      Visit the repository settings page, https://github.com/bioconductor-source/MarZIC/settings/security_analysis        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: 1c5529e4a1b1312b1feabe3863c96fdb47873fbe        
+remote:            path: .Rproj.user/8977727D/sources/session-C5E6F1FE/2FEECA46-contents:8        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/MarZIC/security/secret-scanning/unblock-secret/2kwPbXo4cveuRaUrG58rlcwU09L        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: b3e6c676dfb611d8e0d519ab274ff079c110d186        
+remote:            path: .Rproj.user/8977727D/sources/session-44F2C2A4/F43F139C-contents:72        
+remote:          - commit: b3e6c676dfb611d8e0d519ab274ff079c110d186        
+remote:            path: .Rproj.user/8977727D/sources/session-C5E6F1FE/0EC84E40-contents:72        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/MarZIC/security/secret-scanning/unblock-secret/2kwPbYOGfEvkyJxLupXWK1riiFf        
+remote:             
+remote: 
+remote: 
+To https://github.com/bioconductor-source/MarZIC.git
+ ! [remote rejected] devel -> devel (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/bioconductor-source/MarZIC.git'

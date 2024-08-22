@@ -1,0 +1,10 @@
+remote: warning: File data/cmap_es.rda is 56.66 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 9862cfe1233e11f7b1a9a0d82503c0c220641d5bd38b7edb19613a1f4d55cc09        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/net1.rda is 134.81 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File data/net2.rda is 134.84 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File data/l1000_es.rda is 556.61 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/ccdata.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/ccdata.git'

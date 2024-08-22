@@ -1,0 +1,17 @@
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396385_XV_2.fastq.gz is 64.71 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396386_XV_2.fastq.gz is 70.08 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396387_XV_2.fastq.gz is 65.79 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396381_XV_2.fastq.gz is 57.29 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396384_XV_2.fastq.gz is 68.80 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396385_XV_1.fastq.gz is 63.53 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396384_XV_1.fastq.gz is 67.93 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396386_XV_1.fastq.gz is 68.80 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396387_XV_1.fastq.gz is 64.50 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396381_XV_1.fastq.gz is 56.15 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396382_XV_1.fastq.gz is 64.90 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/input_files/raw_fastq.gz/SRR3396382_XV_2.fastq.gz is 66.03 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/RNASeqRData.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.

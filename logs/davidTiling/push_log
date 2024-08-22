@@ -1,0 +1,7 @@
+remote: error: Trace: fa7ac66b723943003583ea5cd38e2899b7803d17309b5462e857be64772c0cff        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/davidTiling.rda is 200.03 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/davidTiling.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/davidTiling.git'

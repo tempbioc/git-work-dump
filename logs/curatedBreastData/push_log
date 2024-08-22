@@ -1,0 +1,7 @@
+remote: error: Trace: 11fd2166247ed7336b556dbe20d1133c8ecc161e54ad84167766bae9c227f9da        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/curatedBreastDataExprSetList.rda is 282.62 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/curatedBreastData.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/curatedBreastData.git'

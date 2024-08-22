@@ -1,0 +1,19 @@
+Enumerating objects: 262, done.
+Counting objects: 100% (262/262), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (108/108), done.
+Writing objects: 100% (262/262), 522.01 MiB | 1.76 MiB/s, done.
+Total 262 (delta 150), reused 259 (delta 149), pack-reused 0
+remote: Resolving deltas: 100% (150/150), done.
+remote: warning: File data/rtni2nd.RData is 86.28 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File data/rtni2nd.RData is 86.16 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File data/rtni2nd.RData is 86.27 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: error: Trace: 0068952cbc143a9c2c25fb3c33cff4f5c41dc9bafafc701403702f340b115253
+remote: error: See https://gh.io/lfs for more information.
+remote: error: File data/rtni1st.RData is 147.10 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File data/rtni1st.RData is 146.78 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File data/rtni1st.RData is 147.09 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/bioconductor-source/Fletcher2013b.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/Fletcher2013b.git'

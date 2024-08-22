@@ -1,0 +1,7 @@
+remote: error: Trace: 1dc53913ca1f037a443eb6ef72ef627782fce9f38a8435efaf272fb292bb24c9        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/extdata/genotypes_CEU_chr19.tsv is 109.05 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/GeuvadisTranscriptExpr.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/GeuvadisTranscriptExpr.git'

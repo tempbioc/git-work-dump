@@ -1,0 +1,33 @@
+remote: error: GH013: Repository rule violations found for refs/heads/devel.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.        
+remote:      Visit the repository settings page, https://github.com/bioconductor-source/mnmer/settings/security_analysis        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: d9d08ad220790a19dacf866d2af07238efd5806a        
+remote:            path: README.md:36        
+remote:          - commit: 3ec37bfd8ea75b5b5506b49352b376409b19e1f1        
+remote:            path: README.md:37        
+remote:          - commit: 504ea0636d7b49eceba7d4b5da133acab558be87        
+remote:            path: README.md:37        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/mnmer/security/secret-scanning/unblock-secret/2kwdovzzNpkxoa5vHsQp1XRkUX5        
+remote:             
+remote: 
+remote: 
+To https://github.com/bioconductor-source/mnmer.git
+ ! [remote rejected] devel -> devel (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/bioconductor-source/mnmer.git'

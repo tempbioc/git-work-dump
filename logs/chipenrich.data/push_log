@@ -1,0 +1,6 @@
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File data-raw/gencode.v25lift37.annotation.gff3.gz is 55.27 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/chipenrich.data.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.

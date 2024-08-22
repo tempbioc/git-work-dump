@@ -1,0 +1,8 @@
+remote: warning: File data/leafdevBQ.rda is 95.43 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 319cf5df0bd9a44100a7d90aa36af596d2c9e6321a9e1615ab3b0dd8a03058ca        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/leafdev.rda is 107.05 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/waveTilingData.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/waveTilingData.git'

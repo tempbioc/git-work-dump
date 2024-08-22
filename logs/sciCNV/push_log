@@ -1,0 +1,7 @@
+remote: error: Trace: 1584d2b46e4228856b5bd2129c08449cd730a9be0c8fb8bf4e956617ea8f93f2        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File M4EK0501_NEWAnalysis_originalData_Entire__NEW_Analysis___RawData.txt is 295.75 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/sciCNV.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/sciCNV.git'

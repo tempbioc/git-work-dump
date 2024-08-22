@@ -1,0 +1,7 @@
+remote: error: Trace: cb15be327a4269247622f8807a6bedf53320ebb5ce34d8bcc9c4a166b053e85a        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/banovichSE.rda is 172.16 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/yriMulti.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/yriMulti.git'

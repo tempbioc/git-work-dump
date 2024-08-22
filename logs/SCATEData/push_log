@@ -1,0 +1,10 @@
+remote: warning: File inst/extdata/hg19.rds is 66.43 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/mm10.rds is 58.14 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: dd4385583e3773695cedd1d2d89103b9ae6951930c96846cec5adf6051dd51ee        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/extdata/mm10.rds is 127.21 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File inst/extdata/hg19.rds is 143.53 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/SCATEData.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/SCATEData.git'

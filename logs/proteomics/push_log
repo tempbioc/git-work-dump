@@ -1,0 +1,7 @@
+remote: error: Trace: 86988e420cb8f6676199cbe46d074ba1077383b8bc53d4e3419d6de91ef4a0fa        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File TMT_Erwinia_1uLSike_Top10HCD_isol2_45stepped_60min_01-20141210.mzXML is 450.61 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/proteomics.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/proteomics.git'

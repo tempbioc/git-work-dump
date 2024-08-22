@@ -1,0 +1,8 @@
+remote: warning: File data/datamatrixfull.rda is 94.16 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: d385f52838cbcfdbfba97f5850988174158a61d7ffa9d4453307b7b9ea4d1f36        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/featuresPerWell.rda is 420.96 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/HD2013SGI.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/HD2013SGI.git'

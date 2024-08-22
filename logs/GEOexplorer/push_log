@@ -1,0 +1,48 @@
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File .RData is 64.02 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+remote: error: GH013: Repository rule violations found for refs/heads/devel.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.        
+remote:      Visit the repository settings page, https://github.com/bioconductor-source/GEOexplorer/settings/security_analysis        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - blob id: 257d85bf54c15443da9b4c64458b1b690952753a        
+remote:          - blob id: 09a7a06d9a92141cc396bfb82831a32823e9407e        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/GEOexplorer/security/secret-scanning/unblock-secret/2kwLTDLHxV4otSEvMIxsuKqtWNs        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - blob id: 1343f6c2b2c4e11d5ffdb666aaa0bb6eb2f61dad        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/bioconductor-source/GEOexplorer/security/secret-scanning/unblock-secret/2kwLTC4eOHBSjPAcb0SbZKPGbdI        
+remote:             
+remote:             
+remote:     ——[ WARNING ]—————————————————————————————————————————        
+remote:      Scan incomplete: This push was large and we didn't finish on time.        
+remote:      It can still contain undetected secrets.        
+remote:             
+remote:      (?) Use the following command to find the path of the detected secret(s):        
+remote:          git rev-list --objects --all | grep blobid        
+remote:     ——————————————————————————————————————————————————————        
+remote: 
+remote: 
+To https://github.com/bioconductor-source/GEOexplorer.git
+ ! [remote rejected] devel -> devel (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/bioconductor-source/GEOexplorer.git'

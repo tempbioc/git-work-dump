@@ -1,0 +1,9 @@
+remote: error: Trace: c503c4b24542529a65fa970848b872ac4cfd587f628130c6102818478b44fc02        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/BRCAmeth.rda is 100.16 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File data/betavals.rda is 158.95 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File data/mset.rda is 186.47 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/MEALData.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/MEALData.git'

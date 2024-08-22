@@ -1,0 +1,7 @@
+remote: error: Trace: e12ba4ea45bc70e9ece5de3a5ce893f528b24dddf847250e8fb47f5678d5e7d4        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File data/rankMatrix.RData is 236.68 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/ConnectivityMap.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/ConnectivityMap.git'

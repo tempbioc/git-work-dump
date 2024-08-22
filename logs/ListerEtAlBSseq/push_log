@@ -1,0 +1,8 @@
+remote: error: Trace: 3303415672766cdc2aa56ada3d64a1d77c8e60635c418922f2496bab7c898b6b        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/extdata/mc_h1_tabix.txt.gz is 379.16 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File inst/extdata/mc_i90_tabix.txt.gz is 268.33 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/ListerEtAlBSseq.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/ListerEtAlBSseq.git'

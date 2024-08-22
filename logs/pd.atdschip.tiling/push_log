@@ -1,0 +1,7 @@
+remote: error: Trace: 2697ee8f777818afd11cebca24192f7eb263cf63b24ce268615d39f84735265b        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/extdata/pd.atdschip.tiling.sqlite is 213.00 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/pd.atdschip.tiling.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/pd.atdschip.tiling.git'

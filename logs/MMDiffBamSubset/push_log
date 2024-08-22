@@ -1,0 +1,10 @@
+remote: warning: File inst/extdata/reads/Null_2.bam is 70.99 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File inst/extdata/reads/WT_2.bam is 72.06 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 141c9a4e608ffe3d5603ef04c15bec8ee7f8ab369fc2ee804f3d022e09f46631        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File inst/extdata/reads/Input.bam is 380.59 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File inst/extdata/reads/Resc_2.bam is 107.94 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/bioconductor-source/MMDiffBamSubset.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/MMDiffBamSubset.git'

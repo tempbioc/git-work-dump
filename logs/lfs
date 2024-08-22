@@ -1,0 +1,401 @@
+alexandrumahmoud@PC002359 git-work-dump % tail -n +2 largefilelist | xargs -n 2 bash -c 'cd $0 && git lfs migrate import --include="$1"  --everything && git push --set-upstream origin $(git rev-parse --abbrev-ref HEAD)'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (52/52), done.
+  devel 96b988408547dfc90d22aeefa8af09174fcedd26 -> 47113c3aeb17b99073bb2552920ec7b4aebc9a59
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (1/1), 334 MB | 2.9 MB/s, done.
+Enumerating objects: 171, done.
+Counting objects: 100% (171/171), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (114/114), done.
+Writing objects: 100% (171/171), 85.88 KiB | 21.47 MiB/s, done.
+Total 171 (delta 105), reused 65 (delta 52), pack-reused 0
+remote: Resolving deltas: 100% (105/105), done.
+To https://github.com/bioconductor-source/Affyhgu133aExpr.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (57/57), done.
+  devel 35741bc92280e03408182cfdad0d830deda9d3b3 -> d9b25fcdc541cd35211bf7cb5f3948ffa95305b8
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (1/1), 441 MB | 2.9 MB/s, done.
+Enumerating objects: 185, done.
+Counting objects: 100% (185/185), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (123/123), done.
+Writing objects: 100% (185/185), 121.74 KiB | 30.43 MiB/s, done.
+Total 185 (delta 121), reused 69 (delta 57), pack-reused 0
+remote: Resolving deltas: 100% (121/121), done.
+remote:
+remote: Create a pull request for 'devel' on GitHub by visiting:
+remote:      https://github.com/bioconductor-source/Affymoe4302Expr/pull/new/devel
+remote:
+To https://github.com/bioconductor-source/Affymoe4302Expr.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (66/66), done.
+  devel 38aa067bf5fe744dcdf4b301fc80f30f483c61ed -> 1cf29b23d5c70dde0a5fc5622fc6510f383a6b03
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (1/1), 266 MB | 2.9 MB/s, done.
+Enumerating objects: 305, done.
+Counting objects: 100% (305/305), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (199/199), done.
+Writing objects: 100% (305/305), 519.11 MiB | 2.55 MiB/s, done.
+Total 305 (delta 172), reused 167 (delta 103), pack-reused 0
+remote: Resolving deltas: 100% (172/172), done.
+remote: warning: See https://gh.io/lfs for more information.
+remote: warning: File data/EPICSimData.rda is 97.28 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/bioconductor-source/ChAMPdata.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (51/51), done.
+  devel 94489a27b6fcc611e2b683eb8b59f3ec0b8a3e08 -> d9562dd5538d0eaba07fdfe26bcb007832d594b8
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (1/1), 248 MB | 2.9 MB/s, done.
+Enumerating objects: 168, done.
+Counting objects: 100% (168/168), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (112/112), done.
+Writing objects: 100% (168/168), 74.40 KiB | 18.60 MiB/s, done.
+Total 168 (delta 104), reused 63 (delta 49), pack-reused 0
+remote: Resolving deltas: 100% (104/104), done.
+To https://github.com/bioconductor-source/ConnectivityMap.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (19/19), done.
+  master        5596df6de13036082b5a19b6519a32e997322104 -> e581d53d58935147f731f77494aa864a474441a8
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (1/1), 120 MB | 2.8 MB/s, done.
+Enumerating objects: 68, done.
+Counting objects: 100% (68/68), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (63/63), done.
+Writing objects: 100% (68/68), 8.28 KiB | 4.14 MiB/s, done.
+Total 68 (delta 41), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (41/41), done.
+To https://github.com/bioconductor-source/CopyNumber450kData.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (56/56), done.
+  devel 4303098c9ad55d0eaee0132fb2003ef8ad1cd755 -> 199f460dd4113fd9dd2b0ef2363497ac952beade
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (3/3), 462 MB | 2.9 MB/s, done.
+Enumerating objects: 263, done.
+Counting objects: 100% (263/263), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (172/172), done.
+Writing objects: 100% (263/263), 228.49 MiB | 2.78 MiB/s, done.
+Total 263 (delta 146), reused 143 (delta 86), pack-reused 0
+remote: Resolving deltas: 100% (146/146), done.
+remote: warning: See https://gh.io/lfs for more information.
+remote: warning: File data/rtni2nd.RData is 86.28 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File data/rtni2nd.RData is 86.16 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File data/rtni2nd.RData is 86.27 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/bioconductor-source/Fletcher2013b.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (53/53), done.
+  devel 05e243c1092d586b2f6a3ac35f5131bc174b7ad0 -> 7c0024cdd1cead225a89b6daa699f2eb701df142
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (2/2), 273 MB | 2.9 MB/s, done.
+Enumerating objects: 192, done.
+Counting objects: 100% (192/192), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (135/135), done.
+Writing objects: 100% (192/192), 38.34 MiB | 2.46 MiB/s, done.
+Total 192 (delta 112), reused 82 (delta 54), pack-reused 0
+remote: Resolving deltas: 100% (112/112), done.
+To https://github.com/bioconductor-source/FlowSorted.Blood.450k.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (38/38), done.
+  devel 2d503ea129488061018757be0103f62b5a24a3e6 -> 0964f94ff84c28e75c88fcda80f361dc6c86d972
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (2/2), 463 MB | 2.9 MB/s, done.
+Enumerating objects: 138, done.
+Counting objects: 100% (138/138), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (95/95), done.
+Writing objects: 100% (138/138), 38.97 MiB | 2.63 MiB/s, done.
+Total 138 (delta 79), reused 57 (delta 39), pack-reused 0
+remote: Resolving deltas: 100% (79/79), done.
+To https://github.com/bioconductor-source/FlowSorted.CordBlood.450k.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (36/36), done.
+  devel 0f0bf4f6903bb3782573438ce4d4422e16153a45 -> 69b2dcd59a1e09b34994fd9d4a25f13062ed3aa0
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (2/2), 345 MB | 2.9 MB/s, done.
+Enumerating objects: 117, done.
+Counting objects: 100% (117/117), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (82/82), done.
+Writing objects: 100% (117/117), 13.10 KiB | 3.27 MiB/s, done.
+Total 117 (delta 69), reused 39 (delta 32), pack-reused 0
+remote: Resolving deltas: 100% (69/69), done.
+To https://github.com/bioconductor-source/FlowSorted.CordBloodNorway.450k.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (48/48), done.
+  devel 46c4bc27d6d871cc1b80ac31ee89f02cdf785971 -> 12d3f886eae1cd189d145d84ad312185851d1f02
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (2/2), 259 MB | 2.9 MB/s, done.
+Enumerating objects: 166, done.
+Counting objects: 100% (166/166), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (115/115), done.
+Writing objects: 100% (166/166), 28.32 KiB | 9.44 MiB/s, done.
+Total 166 (delta 97), reused 65 (delta 46), pack-reused 0
+remote: Resolving deltas: 100% (97/97), done.
+To https://github.com/bioconductor-source/FlowSorted.DLPFC.450k.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (39/39), done.
+  devel 2d4029548d009ade91d6b3b32a2be06416c4b740 -> 88697bc2c19dcaeba22ad2e3b1723344bd28b7ef
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (1/1), 114 MB | 2.9 MB/s, done.
+Enumerating objects: 143, done.
+Counting objects: 100% (143/143), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (101/101), done.
+Writing objects: 100% (143/143), 1.37 MiB | 3.55 MiB/s, done.
+Total 143 (delta 78), reused 61 (delta 38), pack-reused 0
+remote: Resolving deltas: 100% (78/78), done.
+To https://github.com/bioconductor-source/GeuvadisTranscriptExpr.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (104/104), done.
+  devel 6d98efcc4e0fe59ef1f40360b6d402992f898913 -> f76a409879c8316408a8ecbd2de5de64a04eb38e
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (1/1), 441 MB | 2.9 MB/s, done.
+Enumerating objects: 573, done.
+Counting objects: 100% (573/573), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (319/319), done.
+Writing objects: 100% (573/573), 103.71 MiB | 2.80 MiB/s, done.
+Total 573 (delta 369), reused 360 (delta 251), pack-reused 0
+remote: Resolving deltas: 100% (369/369), done.
+remote: warning: See https://gh.io/lfs for more information.
+remote: warning: File data/datamatrixfull.rda is 94.16 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/bioconductor-source/HD2013SGI.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (80/80), done.
+  devel 3911b6851b9c60d753e23f76682885e121de5c89 -> 0f7bfafafe4fe8e86f3cf6f114f4f74cef2bb2ca
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (1/1), 112 MB | 2.9 MB/s, done.
+Enumerating objects: 360, done.
+Counting objects: 100% (360/360), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (209/209), done.
+Writing objects: 100% (360/360), 29.43 MiB | 2.54 MiB/s, done.
+Total 360 (delta 231), reused 196 (delta 145), pack-reused 0
+remote: Resolving deltas: 100% (231/231), done.
+To https://github.com/bioconductor-source/Hiiragi2013.git
+ * [new branch]      devel -> devel
+branch 'devel' set up to track 'origin/devel'.
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (64/64), done.
+  devel fc5e68e313967741c29f52836b3511c786d2ea58 -> f1d26fc1d7e22f972b31b2272564d5891e1b7683
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects: 100% (1/1), 398 MB | 2.9 MB/s, done.
+Enumerating objects: 215, done.
+Counting objects: 100% (215/215), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (150/150), done.
+Writing objects: 100% (215/215), 279.62 MiB | 2.81 MiB/s, done.
+Total 215 (delta 130), reused 83 (delta 57), pack-reused 0
+remote: Resolving deltas: 100% (130/130), done.
+remote: error: Trace: eb66ed40507b3490b60bb0fe955234cd9c96eceabfd2adb7101ce6d3914a600a
+remote: error: See https://gh.io/lfs for more information.
+remote: error: File inst/extdata/mc_i90_tabix.txt.gz is 268.33 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/bioconductor-source/ListerEtAlBSseq.git
+ ! [remote rejected] devel -> devel (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/bioconductor-source/ListerEtAlBSseq.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (64/64), done.
+  devel f1d26fc1d7e22f972b31b2272564d5891e1b7683 -> 39d2b676192495e00fe58047c78f4f1dfbcc7600
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Authorization error: https://lfs.github.com/bioconductor-source/ListerEtAlBSseq/objects/da5fae698b1896d578da6cabe2ace414afd913ce3b11ee186ba90b687e39aff7/verify
+Check that you have proper access to the repository
+Uploading LFS objects:  50% (1/2), 679 MB | 2.9 MB/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/ListerEtAlBSseq.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (25/25), done.
+  devel 25115d27688eb2bd1c37e8330f61fa7dee7e9ece -> b25abede7ca6ef90eb5e171f4c225f38de433b08
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+error: failed to push some refs to 'https://github.com/bioconductor-source/MEALData.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (25/25), done.
+  devel b25abede7ca6ef90eb5e171f4c225f38de433b08 -> 6d387b7ca545c47b40eb5817405da72dd9d5612f
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/2), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/MEALData.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (25/25), done.
+  devel 6d387b7ca545c47b40eb5817405da72dd9d5612f -> edb1980dbf18a1f20cf63ca605e0f6ae53ad4504
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/3), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/MEALData.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (50/50), done.
+  devel 3ed106d60445dc5fef857520234df89cdad320e8 -> 81e20b50d1f3fed8bfe90abbbf36bda7f12c888c
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/MMDiffBamSubset.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (50/50), done.
+  devel 81e20b50d1f3fed8bfe90abbbf36bda7f12c888c -> 38b66597348a4c908d94f38ceb8732e9f
+migrate: Updating refs: ..., done.
+migrate: chfBamSubset.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (618/618), done.
+  devel e21914780a0bd3c0ffe391c28e0fb680d91cecaa -> 9edb2d610a30773b3aa14bb0a884cd839743746f
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/RforProteomics.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (53/53), done.
+  devel 5b0fba78d1a6681f24a3ebacb1f58820c87b2020 -> fdd34ee8d3939ad55268dcf3256ca26377d8fae3
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS data packs to restore access.
+Uploading LFS objects:   0% (0/3)m/bioconductor-source/RnBeads.hg19.git'
+migrate: Sorting commit0ab7dea4e07228a85546db83851
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/SVM2CRMdata.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting crepository is over its data quota. Account responsible for LFS ss.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/Single.mTEC.Transcriptomes.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (46/46), done.
+  devel d56e98fdcbeb7ce0d8e8a65bc673427d99a7386f -> 397fcfcbbc48a791f367a7dbfa2724628e7c9807
+migrate: Updating refs: ..., done.
+ver its data quota. Account responsible for LFS bandwidth shoul/1), 0 B | 0 B/s, done.
+error: failed to push some refs to 'htt(41/41), done.
+  devel 64abe0b055273578946d209a37e8d5d55106aa39 -> 27877ce165925f5990d2767cd1bf1ce6e5a8bbce
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+error:sponsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/2), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/ccdata.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (41/41), done.
+  devel d2e010d5c558cf65d0f5daa84ec659f571689064 -> debe904db79567544137bddf3323fd5d13717d0a
+migrate: Updating refs: ..., done.
+migrate:mmits: ..., done.
+migrate: Rewriting commits: 100% (45/45), done.
+  devel 37a76293318de4b8e7db7f078e9ceb000f200ba6 -> 82cd8dd937661dfd06e62599a2620f5363a73ee0
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploadingh response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/davidTiling.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (71/71), done.
+  deve: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (42/42), done.
+  devel 54bed666d70f9aa7e7b10306cd72ac112ed1a899 -> 051962d54662eeb52e71854c8d00ec53baf3150e
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/furrowSeg.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (42/42), done.
+  devel 051962d54662batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/2), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/furrowSeg.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (245/245), done.
+  'https://github.com/bioconductor-source/h5vc.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (59/59), done.
+  devel f1e1563ae3d21e5ddb498095b919d3dd9359b2d1 -> 49248650b65658274c151ac757c65701092872f3
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Upl: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/2), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/methylationArrayAnalysis.git'
+migrate: Sortingcts:   0% (0/2), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/msPurityData.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (104/104), done.
+  devel ab132bbb41f48ecde5c655a2b31685e4c1923455 -> 9dce9f967e0608946a9cceadd8071a2021f6f003
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batc9cf0ad202bf8347e09daff4d333 -> 98ccfd6e1c995a5528879132fab16e667a44f8a5
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+Uploading LFS objects:   0% (0/6), 0 B | 0 B/s, done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+error: failed to push some refs to 'https://github.com/bioconductor-source/oneChannelGUI.git'
+migrate: Sohould purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/pd.atdschip.tiling.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (64/64), done.
+  devel 79d98711f9f6b63fc97bc84e930b766fe15475f3 -> 8c27859070d1665996103d821ac4792b0ddf1eone.
+migrate: Rewriting commits: 100% (518/518), done.
+  devel 4beba8f31a76a6a996b5f2dbf7d7915c7ee5bac7 -> 90296949cd8c78cc21c60310577b97d820a84a21
+migrate: Updating refs: ..., done.
+migrate: checkout: ..., done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objectitory is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
+error: failed to push some refs to 'https://github.com/bioconductor-source/waveTilingData.git'
+migrate: Sorting commits: ..., done.
+migrate: Rewriting commits: 100% (46/46), done.
+  devel 65e1185560290543c16f0ec006c744fe6764753d -> 56b60147e570ebb032811a62dcad39cef845conductor-source/yriMulti.git'
