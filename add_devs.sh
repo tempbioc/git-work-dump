@@ -24,5 +24,5 @@ uid=$(gh api "/search/users?q=$email_address" --jq ".items[0].login")
 for repo in "${repos[@]}"
 do
     echo "Adding $uid for $email_address as writer to $owner/$repo"
-    gh api --method PUT "/repos/$owner/$repo/collaborators/$uid" -f permission=write
+    gh api --method PUT "/repos/$owner/$repo/collaborators/$uid" -f permission=write && git clone https://github.com/$owner/$repo && cd $repo && git remote add bioc https://git.bioconductor.org/packages/$repo && git pull bioc devel && git push origin devel && cd .. && rm -rf $repo
 done
